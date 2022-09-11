@@ -9,5 +9,5 @@ client = Client(account_sid, auth_token)
 message = client.messages.create(
     from_='whatsapp:+14155238886',
     body=f""" "{getlogin()}" Logged In into your Linux""",
-    to='whatsapp:+918446998284'
+    to='whatsapp:+91xxxxxxxxxxx'
 )
